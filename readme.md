@@ -1,3 +1,4 @@
 # programacion 
 
--[sep-02-2021](cuaderno-virtual/sep-02-2021.md)
+- [sep-02-2021](cuaderno-virtual/sep-02-2021.md)
+- [sep-09-2021](cuaderno-virtual/sep-09-2021.md)
